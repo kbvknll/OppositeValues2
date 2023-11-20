@@ -4,6 +4,7 @@ class Program
     static void Main()
     {
         Console.Write("Введите длину массива: ");
+        Console.Write("Введите длину массива: ");
         int n = Convert.ToInt32(Console.ReadLine());
         if (n < 0 || n > 100)
         {
